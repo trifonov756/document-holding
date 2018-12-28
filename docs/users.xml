@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+	<user>
+		<login>user0</login>
+	</user>
+	<user>
+		<login>Директор</login>
+	</user>
+	<user>
+		<login>Главный бухгалтер</login>
+	</user>
+	<user>
+		<login>Бухгалтер 1</login>
+	</user>
+	<user>
+		<login>Бухгалтер 2</login>
+	</user>
+	<user>
+		<login>Бухгалтер 3</login>
+	</user>
+	<user>
+		<login>Мл. бухгалтер 1</login>
+	</user>
+	<user>
+		<login>Мл. бухгалтер 2</login>
+	</user>
+	<user>
+		<login>user8</login>
+	</user>
+	<user>
+		<login>user9</login>
+	</user>
+</users>

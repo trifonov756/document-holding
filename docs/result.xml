@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document title="doc1">
+	<process step="1" result="y">
+		<user choise="y">Директор</user>
+	</process>
+	<process step="2" result="y">
+		<user choise="y">Главный бухгалтер</user>
+	</process>
+	<process step="3" operation="or" result="y">
+		<user choise="n">Бухгалтер 1</user>
+		<user choise="n">Директор</user>
+		<user choise="y">Бухгалтер 3</user>
+	</process>
+	<process step="4" operation="and" result="y">
+		<user choise="y">Мл. бухгалтер 1</user>
+		<user choise="y">Мл. бухгалтер 2</user>
+	</process>
+</document>
